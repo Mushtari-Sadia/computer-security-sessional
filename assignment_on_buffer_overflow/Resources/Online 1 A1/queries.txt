@@ -1,0 +1,5 @@
+1. To place shellcode below rt,I placed the shellcode here -> content[5:5+len(shellcode)]
+2. content[0-5]-> nop
+3. So return address can be starting address of buffer (?) -> hits nop 5 times then goes to shellcode
+4. For different buffer sizes, the starting address of buffer changes (since my return address is starting address of buffer, I have to change that too)
+5. Am I allowed to change the return address value in exploit.py after every change made to the buffer size in stack.c?  
