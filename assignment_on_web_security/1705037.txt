@@ -1,0 +1,3 @@
+1. CSRF Assignment: https://drive.google.com/file/d/1R-isOg4C0po8Mh4SDUSoFpFChRqSXldu/view?usp=sharing
+2. XSS Assignment: https://drive.google.com/file/d/1Ivp_ACnU4Nqu_NfQQoGTsO6WWs9sCrZN/view?usp=sharing
+3. SQL injection Assignment: https://drive.google.com/file/d/11zf-THTvuZkvSSnlT_P0yE0MQl0XFkhk/view?usp=sharing
